@@ -10,7 +10,7 @@
     "axios": "^0.18.1",
     "dotenv": "^6.2.0",
     "macaddress": "^0.2.9",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "react": "^16.3.2",
     "react-dom": "^16.8.5",
     "react-router": "^4.2.0",
